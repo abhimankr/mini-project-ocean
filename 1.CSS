@@ -1,0 +1,85 @@
+.navbar {
+    width: 100%;
+    background-color: whitesmoke;
+    overflow: auto;
+  }
+  
+  
+  .navbar a{
+    float: right;
+    padding: 12px;
+    color: black;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+  }
+  
+  .navbar a:hover {
+    background-color:rgba(206, 201, 212, 0.73);
+  }
+  
+.h11{
+    text-align: center;
+    color: black;
+}  
+.img111{
+    float: left;
+  padding:1cm;
+}
+.p111{
+    text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: x-large;
+  
+}
+.container {
+    position: relative;
+    text-align:center;
+    color: rgb(187, 170, 170)85, 155, 155);
+  }
+  .centered {
+    position: absolute;
+    top: 120%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+  }
+  .centered1 {
+    position: absolute;
+    top: 120%;
+    right:5% ;
+    transform: translate(-50%, -50%);
+  }
+  .abhi {
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+  }
+  .abhi1 {
+    position: absolute;
+    top: 50%;
+    right:5% ;
+    transform: translate(-50%, -50%);
+font-size: 40px;
+}
+.footer{
+    width: 100%;
+    text-align: center;
+    padding: 30px 0;
+    box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.2);
+    background-color: rgb(172, 172, 172)140, 56, 56);
+  }
+  
+  .footer.img1{
+    width: 80px;
+    padding: 18px 0;
+    margin: 0 13px;
+    cursor: pointer;
+  
+  }
+  
+  
+ 
+  
+ 
